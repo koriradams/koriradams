@@ -37,7 +37,7 @@ I’m a DevOps Engineer in transition with a Bachelor’s degree in Software Eng
 
 👨‍💻 What I’m Working On
 
-I’m currently working on projects that deepen my understanding of cloud-native applications and infrastructure automation. [Link to any projects or repositories you’re working on, if available]
+I’m currently working on projects that deepen my understanding of cloud-native applications and infrastructure automation.
 
 📈 Areas of Interest
 
@@ -55,7 +55,7 @@ I’m currently working on projects that deepen my understanding of cloud-native
 
 📫 Let’s Connect
 
-Feel free to connect with me on LinkedIn or explore my repositories to see what I’ve been working on!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/koriradams/) or explore my repositories to see what I’ve been working on!
 
 <!--
 **koriradams/koriradams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
